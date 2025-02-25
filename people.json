@@ -1,0 +1,98 @@
+{
+  "PB": {
+    "checked": true,
+    "name": "Prakhar Bhaiya",
+    "colors": ["#4DA5F3", "#065FAE"],
+    "emojis": ["📱", "🎮", "💻", "🧑‍💻"],
+    "awards": [
+      "World's Best Java Coder",
+      "World's Best Gamer",
+      "World's Most Independent Man"
+    ],
+    "font": "Fragment Mono"
+  },
+  "PD": {
+    "checked": true,
+    "name": "Priyanshi Didi",
+    "colors": ["#BE88EC", "#7E53E6"],
+    "emojis": ["🎨", "💃", "👗", "👛", "👠"],
+    "awards": [
+      "World's Best Indian Dancer",
+      "World's Best Tennis Player",
+      "World's Coolest Vegetarian"
+    ],
+    "font": "Lobster"
+  },
+  "MG": {
+    "checked": true,
+    "name": "Mausaji",
+    "colors": ["#03D92D", "#01881C"],
+    "emojis": ["✈️", "🥐", "🍴", "🍽️", "😋"],
+    "awards": [
+      "World's Best Meta Employee",
+      "World's Most Enthusiastic Traveler",
+      "World's Best Uncle"
+    ],
+    "font": "Fragment Mono"
+  },
+  "RM": {
+    "checked": true,
+    "name": "Rupal Mausi",
+    "colors": ["#4DA5F3", "#065FAE"],
+    "emojis": ["✈️", "🥐", "🍴", "🍽️", "😋"],
+    "awards": [
+      "World's Most Spicy Cook",
+      "World's Best Auntie",
+      "Most Hardcore Food Enthusiast"
+    ],
+    "font": "Lobster"
+  },
+  "MM": {
+    "checked": true,
+    "name": "Minnie Maasi",
+    "colors": ["#7a1c34", "#6e011d"],
+    "emojis": ["👗", "👛", "👠", "🪞"],
+    "awards": [
+      "World's Best Auntie",
+      "World's Best Phone Partner",
+      "World's Most Photogenic Person"
+    ],
+    "font": "Lobster"
+  },
+  "SM": {
+    "checked": true,
+    "name": "Sunil Mausa",
+    "colors": ["#4DA5F3", "#065FAE"],
+    "emojis": ["🎂", "🎈", "💻", "🧑‍💻", "🎁"],
+    "awards": [
+      "Owner of the World's Coolest Birthday",
+      "World's Best Macy's Employee",
+      "World's Most Hospitable Man"
+    ],
+    "font": "Fragment Mono"
+  },
+  "MA": {
+    "checked": true,
+    "name": "Mommy",
+    "colors": ["#7a1c34", "#6e011d"],
+    "emojis": ["🧑‍🍳", "☕", "🤶", "♈", "♋", "♌", "♍"],
+    "awards": [
+      "World's Best Chai Maker",
+      "World's Best Stay-at-Home Mother",
+      "World's Best Homeschool Parent"
+    ],
+    "font": "Lobster"
+  },
+  "DA": {
+    "checked": false,
+    "name": "Daddy",
+    "colors": ["#7a1c34", "#6e011d"],
+    "emojis": ["💻", "🧑‍💻", "☕", "🚗", "🔊"],
+    "awards": [
+      "World's Best Dad",
+      "World's Best Money Saver",
+      "World's Best Hot Chocolate Maker"
+    ],
+    "font": "Fragment Mono"
+  }
+}
